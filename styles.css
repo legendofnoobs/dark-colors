@@ -261,7 +261,7 @@ body{
     .mainContainer{
         width: 95%;
         height: fit-content;
-        border: 2px solid red;
+        border: 2px solid transparent;
         margin: auto;
         display: flex;
         flex-direction: column;
@@ -270,7 +270,7 @@ body{
     .secondaryContainer{
         width: 95%;
         height: 50%;
-        border: 2px solid blue;
+        border: 2px solid transparent;
         margin: 0 auto;
         padding: 20px;
         display: flex;
